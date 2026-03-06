@@ -1,16 +1,24 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ExceptionRegret&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20Digital%20Marketer%20%E2%80%A2%20Entrepreneur&descSize=16&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cyberexception&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=28&desc=Where%20Marketing%20Meets%20Engineering%20%E2%80%94%20I%20Build%20What%20I%20Market&descSize=16&descAlignY=50"/>
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%94%A7+Full+Stack+Developer+%7C+MCP+Server+Builder;%F0%9F%9B%A1%EF%B8%8F+Security+Researcher+%7C+Vulnerability+Assessment;%F0%9F%93%88+Digital+Marketer+%7C+SEO+%7C+Google+Ads+Expert;%F0%9F%9A%80+Creator+of+Kryfto+%E2%80%94+42-tool+MCP+Server" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=120&lines=%E2%9A%A1+Marketing+Strategist+Who+Can+Build+The+Product;%F0%9F%9B%A1%EF%B8%8F+Security+Researcher+%7C+B.Tech+Engineer;%F0%9F%93%88+Google+%26+HubSpot+Certified+Digital+Marketer;%F0%9F%9A%80+Creator+of+Kryfto+%E2%80%94+42-tool+MCP+Server;%F0%9F%A4%96+Building+SaaS+Products+with+AI-Assisted+Dev" alt="Typing SVG" /></a>
 
-<!-- Profile Views & Socials -->
 <br/>
 
+<!-- Badges Row -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ExceptionRegret&style=for-the-badge&color=0e75b6)
 [![GitHub followers](https://img.shields.io/github/followers/ExceptionRegret?style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba)](https://github.com/ExceptionRegret)
+[![GitHub Stars](https://img.shields.io/github/stars/ExceptionRegret?style=for-the-badge&logo=github&color=yellow&labelColor=orange)](https://github.com/ExceptionRegret)
+
+<!-- Certification Badges -->
+<br/>
+<img src="https://img.shields.io/badge/Google_Analytics-Certified-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Display_Ads-Certified-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Video_Ads-Certified-FF0000?style=for-the-badge&logo=google-ads&logoColor=white" />
+<img src="https://img.shields.io/badge/HubSpot-Digital_Marketing-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
 
 </div>
 
@@ -25,48 +33,84 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
+
 ```typescript
-const ExceptionRegret = {
-    role: "Full Stack Developer | Security Researcher | Digital Marketer",
-    currentProject: "Kryfto — 42-tool MCP Server for AI Agents",
-    languages: ["TypeScript", "Python", "JavaScript", "C", "C++", "Java", "PHP", "Shell", "HTML/CSS"],
-    security: ["Vulnerability Assessment", "Network Security", "Penetration Testing"],
-    marketing: ["Google Ads", "SEO", "Social Media Strategy", "Content Creation", "Automation"],
-    creative: ["Adobe Photoshop", "Adobe Premiere Pro", "Adobe After Effects"],
-    strengths: ["Team Leadership", "Strategic Thinking", "Entrepreneurship", "Client Engagement"],
-    os: ["Linux", "Windows", "macOS"],
-    motto: "Build tools that make AI agents unstoppable."
+const Cyberexception = {
+    background: "B.Tech Engineer | Freelance Consultant | Entrepreneur",
+    superpower: "Marketing strategist who can also build the product",
+
+    building: [
+        "Kryfto — 42-tool MCP Server for AI Agents",
+        "SaaS products with AI-assisted development"
+    ],
+
+    tools: {
+        aiDev:     ["Claude Code", "Cursor", "n8n"],
+        languages: ["TypeScript", "Python", "JavaScript", "C", "C++",
+                     "Java", "PHP", "Shell", "HTML/CSS"],
+        infra:     ["Docker", "Postgres", "Redis", "Nginx", "Linux"],
+        security:  ["Vulnerability Assessment", "Network Security",
+                     "Penetration Testing", "WiFi Security"],
+    },
+
+    marketing: {
+        certs:     ["Google Analytics", "Google Display Ads",
+                     "Google Video Ads", "HubSpot Digital Marketing"],
+        skills:    ["Performance Marketing", "SEO", "Google Ads",
+                     "Social Media Strategy", "Content Creation",
+                     "Marketing Automation", "Growth Hacking"],
+    },
+
+    creative:  ["Photoshop", "Premiere Pro", "After Effects"],
+
+    strengths: ["Can build AND market a product solo",
+                "Local market prospecting + global digital reach",
+                "Team leadership + strategic thinking"],
+
+    motto: "Most people can build or market — I do both."
 };
 ```
 
+<br clear="right"/>
+
+---
+
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
 
-### Languages & Development
+### Development & Languages
 <p>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="42" height="42" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="42" height="42" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="42" height="42" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="42" height="42" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=c" width="42" height="42" alt="C" />
-  <img src="https://skillicons.dev/icons?i=php" width="42" height="42" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=html" width="42" height="42" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" width="42" height="42" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=bash" width="42" height="42" alt="Bash" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=c" width="44" height="44" alt="C" />
+  <img src="https://skillicons.dev/icons?i=php" width="44" height="44" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=bash" width="44" height="44" alt="Bash" />
 </p>
 
 ### Infrastructure & DevOps
 <p>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="42" height="42" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="42" height="42" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=redis" width="42" height="42" alt="Redis" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=linux" width="42" height="42" alt="Linux" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="42" height="42" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="44" height="44" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="44" height="44" />
+</p>
+
+### AI-Assisted Development
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ### Security & Networking
@@ -74,22 +118,25 @@ const ExceptionRegret = {
   <img src="https://img.shields.io/badge/Vulnerability_Assessment-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Network_Security-2C2D72?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/WiFi_Security-4285F4?style=for-the-badge&logo=wifi&logoColor=white" />
 </p>
 
 ### Marketing & Growth
 <p>
   <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance_Marketing-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Social_Media_Marketing-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Content_Creation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Social_Media-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Content_Strategy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Marketing_Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Growth_Hacking-00C853?style=for-the-badge&logo=growthbook&logoColor=white" />
 </p>
 
 ### Creative Suite
 <p>
-  <img src="https://skillicons.dev/icons?i=ps" width="42" height="42" alt="Photoshop" />
-  <img src="https://skillicons.dev/icons?i=pr" width="42" height="42" alt="Premiere Pro" />
-  <img src="https://skillicons.dev/icons?i=ae" width="42" height="42" alt="After Effects" />
+  <img src="https://skillicons.dev/icons?i=ps" width="44" height="44" alt="Photoshop" />
+  <img src="https://skillicons.dev/icons?i=pr" width="44" height="44" alt="Premiere Pro" />
+  <img src="https://skillicons.dev/icons?i=ae" width="44" height="44" alt="After Effects" />
 </p>
 
 </div>
@@ -134,14 +181,13 @@ const ExceptionRegret = {
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExceptionRegret&custom_title=ExceptionRegret's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F&area_color=7F3FBF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExceptionRegret&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F&area_color=7F3FBF&area=true&hide_border=true" />
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Other Projects
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> More Projects
 
 <div align="center">
 
@@ -165,19 +211,38 @@ const ExceptionRegret = {
 
 ---
 
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25"> What I Bring to the Table
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> What Makes Me Different
 
 <div align="center">
 
 ```
- Development          Security             Marketing            Leadership
- ============         ============         ============         ============
- Full Stack Dev       Vuln Assessment      Google Ads           Team Leadership
- MCP Servers          Network Security     SEO Expert           Strategic Thinking
- REST APIs            Pen Testing          Social Media         Entrepreneurship
- Shell Scripting      Computer Networks    Content Creation     Client Engagement
- Web Apps             WiFi Security        Automation Tools     Cross-functional
- Docker/DevOps        IT Infrastructure    Online Marketing     Innovation
+                        ┌─────────────────────────────┐
+                        │    MOST PEOPLE DO ONE.       │
+                        │    I DO BOTH.                │
+                        └──────────────┬──────────────┘
+                                       │
+                    ┌──────────────────┴──────────────────┐
+                    │                                      │
+            ┌───────┴───────┐                    ┌─────────┴────────┐
+            │  BUILD IT     │                    │   MARKET IT      │
+            │───────────────│                    │──────────────────│
+            │ TypeScript    │                    │ Google Ads       │
+            │ Python        │                    │ Performance Mktg │
+            │ MCP Servers   │                    │ SEO & Content    │
+            │ REST APIs     │                    │ Social Media     │
+            │ SaaS Products │                    │ Growth Strategy  │
+            │ Docker/DevOps │                    │ Marketing Auto   │
+            │ Security/VA   │                    │ Client Outreach  │
+            └───────────────┘                    └──────────────────┘
+                    │                                      │
+                    └──────────────────┬──────────────────┘
+                                       │
+                        ┌──────────────┴──────────────┐
+                        │  B.Tech Engineer             │
+                        │  Google & HubSpot Certified  │
+                        │  Freelance Consultant        │
+                        │  Entrepreneur & SaaS Builder │
+                        └─────────────────────────────┘
 ```
 
 </div>
@@ -212,7 +277,6 @@ const ExceptionRegret = {
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:exceptionregret@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ExceptionRegret)
 
 <br/>
