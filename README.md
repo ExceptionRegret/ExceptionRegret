@@ -148,7 +148,7 @@ const Cyberexception = {
 <div align="center">
 
 <a href="https://github.com/ExceptionRegret/Kryfto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ExceptionRegret&repo=Kryfto&theme=radical&border_color=7F3FBF&border_radius=10" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ExceptionRegret&repo=Kryfto&theme=radical&border_color=7F3FBF&border_radius=10" />
 </a>
 
 <br/><br/>
@@ -169,14 +169,14 @@ const Cyberexception = {
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="25"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ExceptionRegret&show_icons=true&theme=radical&border_color=7F3FBF&border_radius=10&count_private=true&hide_border=false&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExceptionRegret&layout=compact&theme=radical&border_color=7F3FBF&border_radius=10&hide_border=false&bg_color=0D1117&title_color=F85D7F&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ExceptionRegret&show_icons=true&theme=radical&border_color=7F3FBF&border_radius=10&count_private=true&hide_border=false&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ExceptionRegret&layout=compact&theme=radical&border_color=7F3FBF&border_radius=10&hide_border=false&bg_color=0D1117&title_color=F85D7F&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ExceptionRegret&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
+  <img src="https://streak-stats.demolab.com/?user=ExceptionRegret&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
 </div>
 
 <br/>
@@ -192,19 +192,19 @@ const Cyberexception = {
 <div align="center">
 
 <a href="https://github.com/ExceptionRegret/Wifi-Confusion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ExceptionRegret&repo=Wifi-Confusion&theme=radical&border_color=7F3FBF&border_radius=10" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ExceptionRegret&repo=Wifi-Confusion&theme=radical&border_color=7F3FBF&border_radius=10" />
 </a>
 <a href="https://github.com/ExceptionRegret/Fake-News-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ExceptionRegret&repo=Fake-News-Detection&theme=radical&border_color=7F3FBF&border_radius=10" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ExceptionRegret&repo=Fake-News-Detection&theme=radical&border_color=7F3FBF&border_radius=10" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ExceptionRegret/coronavirus-tracker-web-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ExceptionRegret&repo=coronavirus-tracker-web-app&theme=radical&border_color=7F3FBF&border_radius=10" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ExceptionRegret&repo=coronavirus-tracker-web-app&theme=radical&border_color=7F3FBF&border_radius=10" />
 </a>
 <a href="https://github.com/ExceptionRegret/LoginBackgroundChangerForGnome">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ExceptionRegret&repo=LoginBackgroundChangerForGnome&theme=radical&border_color=7F3FBF&border_radius=10" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ExceptionRegret&repo=LoginBackgroundChangerForGnome&theme=radical&border_color=7F3FBF&border_radius=10" />
 </a>
 
 </div>
@@ -215,35 +215,53 @@ const Cyberexception = {
 
 <div align="center">
 
-```
-                        ┌─────────────────────────────┐
-                        │    MOST PEOPLE DO ONE.       │
-                        │    I DO BOTH.                │
-                        └──────────────┬──────────────┘
-                                       │
-                    ┌──────────────────┴──────────────────┐
-                    │                                      │
-            ┌───────┴───────┐                    ┌─────────┴────────┐
-            │  BUILD IT     │                    │   MARKET IT      │
-            │───────────────│                    │──────────────────│
-            │ TypeScript    │                    │ Google Ads       │
-            │ Python        │                    │ Performance Mktg │
-            │ MCP Servers   │                    │ SEO & Content    │
-            │ REST APIs     │                    │ Social Media     │
-            │ SaaS Products │                    │ Growth Strategy  │
-            │ Docker/DevOps │                    │ Marketing Auto   │
-            │ Security/VA   │                    │ Client Outreach  │
-            └───────────────┘                    └──────────────────┘
-                    │                                      │
-                    └──────────────────┬──────────────────┘
-                                       │
-                        ┌──────────────┴──────────────┐
-                        │  B.Tech Engineer             │
-                        │  Google & HubSpot Certified  │
-                        │  Freelance Consultant        │
-                        │  Entrepreneur & SaaS Builder │
-                        └─────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/I_BUILD_IT-7F3FBF?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP_Servers-191919?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/SaaS_Products-FF6F00?style=flat-square&logo=producthunt&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Security_&_VA-FF0000?style=flat-square&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell_Scripts-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/I_MARKET_IT-F85D7F?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance_Mktg-FF6F00?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/SEO_&_Content-47A248?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Social_Media-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Growth_Strategy-00C853?style=flat-square&logo=growthbook&logoColor=white" />
+<img src="https://img.shields.io/badge/Marketing_Auto-FF6F00?style=flat-square&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/Client_Outreach-0077B5?style=flat-square&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Online_Marketing-1DA1F2?style=flat-square&logo=marketbeat&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MOST_PEOPLE_DO_ONE._I_DO_BOTH.-0D1117?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/B.Tech_Engineer-0D1117?style=flat-square" />
+<img src="https://img.shields.io/badge/Google_&_HubSpot_Certified-0D1117?style=flat-square" />
+<img src="https://img.shields.io/badge/Freelance_Consultant-0D1117?style=flat-square" />
+<img src="https://img.shields.io/badge/Entrepreneur_&_SaaS_Builder-0D1117?style=flat-square" />
 
 </div>
 
@@ -254,7 +272,7 @@ const Cyberexception = {
 
 ### <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25"> GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ExceptionRegret&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
+<img src="https://github-trophies.vercel.app/?username=ExceptionRegret&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
 
 </div>
 
